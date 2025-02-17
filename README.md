@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Stuff.
 - 🌱 I’m currently learning Swift, SwiftUI and other things. 
 - 💞️ I’m looking to collaborate on Swift, iOS, SwiftUI.
-- 📫 How to reach me ...
+- 📫 How to reach me null
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: null
 
